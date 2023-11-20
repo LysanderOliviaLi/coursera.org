@@ -1,0 +1,74 @@
+Question 1
+What will happen if you plug in a 220v device into a 120v outlet?
+
+
+Nothing will happen 
+
+
+The outlet could get damaged
+
+
+The device will charge at a slower rate (Correct)
+
+
+The device could get damaged
+
+Correct
+While plugging a 220v device into a 120v outlet won't cause immediate harm to your device, it could still cause your device to deteriorate.
+
+Question 2
+What are two common types of CPU sockets?
+
+
+Qualcomm and LGA 
+
+
+Intel and AMD 
+
+
+LGA and PGA(Correct) 
+
+
+AMD and PGA
+
+Correct
+Land Grid Array (LGA) and Pocket Grid Array (PGA) are two common types of CPU sockets.
+
+Question 3
+What is the most common form factor for motherboards?
+
+
+ATX(Correct) 
+
+
+I/O 
+
+
+Peripherals
+
+
+PCI Express 
+
+Correct
+Advanced Technology eXtended (ATX) comes in different sizes. If you don't want to use an ATX form factor, you could use an ITX or Information Technology eXtended form factor.
+
+Question 4
+Which characteristics differentiate a Solid State Drive (SSD) from a Hard Disk Drive (HDD)? Select all that apply. 
+
+
+Uses Disk Platters
+
+
+High RPMs 
+
+
+Greater durability(Correct)
+
+Correct
+SSDs have non-moving parts, are less prone to damage, and utilize non-volatile memory.
+
+
+Non-moving parts(Correct) 
+
+Correct
+SSDs have non-moving parts, are less prone to damage, and utilize non-volatile memory.
