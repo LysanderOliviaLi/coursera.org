@@ -1,0 +1,6 @@
+# Specialization - 4 course series
+Learning the foundational elements of C can help anyone interested in programming increase their proficiency in languages like C++, Java, JavaScript, and Python. In C Programming for Everybody, you’ll learn the history of C and C syntax as you build foundational programming knowledge with C. Apply your knowledge to several exercises throughout each course as you move into more advanced concepts. This specialization allows you to go at your own pace, giving you control over how to approach more complex exercises. Regardless of the programming language you’re familiar with, C Programming for Everybody is perfect for both programming novices and seasoned programmers looking to get a refresher on the C programming basics. 
+
+Applied Learning Project
+
+This specialization includes several increasingly challenging programming exercises ranging from a few minutes of effort to several hours of development. Learners will encounter how to implement the patterns of Python objects in C, identify and fix errors within code, and implement a list of data structures based on a predetermined code structure in C to determine how it functions in Python. As learners encounter more complex concepts, we adjust the pace to ensure students understand the material before moving on, building upon previous lessons as we go. 
